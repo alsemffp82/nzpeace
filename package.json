@@ -22,7 +22,7 @@
   "dependencies": {
     "@nuxt/http": "^0.1.2",
     "axios": "^0.18.0",
-    "nuxt": "^2.6.3",
+    "nuxt": "^2.15.8",
     "nuxt-start": "^2.6.3",
     "serverless-http": "^2.0.1"
   },
